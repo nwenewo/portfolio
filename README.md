@@ -11,9 +11,9 @@
 - Overseeing day-to-day operations to ensure efficiency and effectiveness. This may involve managing processes, workflows, and resources to meet organizational goals.
 - setting sales targets, developing marketing strategies, and analyzing market trends.
 - Maintaining and improving customer relationships to ensure satisfaction and loyalty.
--  Identifying and mitigating risks that could impact the business.
--  Using data and analytics to make informed decisions and track key performance indicators (KPIs).
--  Continuously assessing the performance of the organization, its teams, and its processes, and making necessary adjustments for improvement.
+- Identifying and mitigating risks that could impact the business.
+- Using data and analytics to make informed decisions and track key performance indicators (KPIs).
+- Continuously assessing the performance of the organization, its teams, and its processes, and making necessary adjustments for improvement.
 
 **Sales Consultant @ Jumia Nigeria (_April, 2017 - December, 2022_)**
 - Assisted customers with order placements, tracking, and returns, reducing average call duration by 15%.
@@ -43,4 +43,13 @@
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.
 I analyzed the data on SATs across public schools in New York City.
-![NYC public school](assets/image.png)
+
+![NYC public school bus](assets/image.png)
+
+
+### Optimizing Online Sports Retail Revenue
+![Online retail shop](assets/sports retail shop.jpg)
+[Publication](https://www.)
+
+Sports clothing and athleisure attire is a huge industry, worth approximately [$193 billion in 2021](https://www.statista.com/statistics/254489/total-revenue-of-the-global-sports-apparel-market/) with a strong growth forecast over the next decade!
+In this notebook, we play the role of a product analyst for an online sports clothing company. The company is specifically interested in how it can improve revenue. We will dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to produce recommendations for its marketing and sales teams.
